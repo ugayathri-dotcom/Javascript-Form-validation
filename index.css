@@ -10,10 +10,14 @@
   
   background:linear-gradient(pink,rgb(240, 153, 240))
 }
- #main 
+.container
+{
+  display:grid;
+}
+/* #main 
 {
   margin-left: 450px;
- } 
+ } */
 
 .form div{
   padding:2px;
